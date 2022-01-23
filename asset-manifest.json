@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/shitterfy-website/static/css/main.e35a024a.css",
-    "main.js": "/shitterfy-website/static/js/main.aa5a6352.js",
+    "main.css": "/shitterfy-website/static/css/main.3ae3fb85.css",
+    "main.js": "/shitterfy-website/static/js/main.82cb7fff.js",
     "index.html": "/shitterfy-website/index.html",
-    "main.e35a024a.css.map": "/shitterfy-website/static/css/main.e35a024a.css.map",
-    "main.aa5a6352.js.map": "/shitterfy-website/static/js/main.aa5a6352.js.map"
+    "main.3ae3fb85.css.map": "/shitterfy-website/static/css/main.3ae3fb85.css.map",
+    "main.82cb7fff.js.map": "/shitterfy-website/static/js/main.82cb7fff.js.map"
   },
   "entrypoints": [
-    "static/css/main.e35a024a.css",
-    "static/js/main.aa5a6352.js"
+    "static/css/main.3ae3fb85.css",
+    "static/js/main.82cb7fff.js"
   ]
 }
