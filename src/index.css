@@ -171,7 +171,7 @@ p span  {
   font-size: 30px;
 }
 
-.can_i_haz_chezburger_pls {
+.chez {
   color: rgb(212, 226, 11);
   font-size: 1.5rem;
   font-weight: bold;
@@ -185,4 +185,41 @@ p span  {
   font-weight: bold;
   margin-top: 2%;
   font-size: 30px;
+}
+.karolek {
+  color: rgb(31, 117, 14);
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 2%;
+  font-size: 30px;
+}
+
+.cafe {
+  color: rgb(155, 85, 196);
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 2%;
+  font-size: 30px;
+
+}
+
+.dominer {
+  color: rgb(0, 17, 255);
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 2%;
+  font-size: 30px;
+}
+
+.minecraft {
+    color: rgb(21, 255, 0);
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 2%;
+    font-size: 30px;
+}
+
+#download-button {
+  margin-top: 2%;
+  margin-left: 35%;
 }

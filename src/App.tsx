@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from './components/header';
 import { Routes, Route } from "react-router-dom"
 import Homepage from './components/homepage';
 import About from './components/about';
@@ -13,6 +12,10 @@ function App() {
         <Route path="/" element={<Homepage />} />
         <Route path="/about" element={<About />} />
         <Route path="/download" element={<Download />} />
+        <Route path="/amongusfree" element={ () => {
+          window.location.replace("https://github.com/CheeseOnGithub/shitify/releases");
+          return null;
+        }} />
       </Routes>
     </div>
   );
